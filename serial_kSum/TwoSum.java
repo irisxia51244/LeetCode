@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 167，【Array】【Binary Search】,【EASY】
+ * 1，【Array】【Binary Search】,【EASY】
  * LeetCode 1. Two Sum
  * Related Topics: Array, HashTable
  * @author Iris Xia

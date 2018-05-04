@@ -1,6 +1,6 @@
 /* 
  * LeetCode 167. Two Sum II - Input array is sorted
- * Related Topic: Array, Binary Search
+ * Related Topics: Array, Binary Search
  * @author Iris Xia
  * Time Complexity: O(logn), Space Complexity: O(1);
  */

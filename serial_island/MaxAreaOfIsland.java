@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 695，【EASY】，【Array】【DFS】
+ * 695，【Easy】，【Array】【DFS】
  * LeetCode 695. Max Area of Island
  * Related Topics: Array, DFS
  * @author Iris Xia

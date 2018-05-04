@@ -10,7 +10,7 @@ import java.util.*;
 //nums[i] + nums[l]+ nums[r] < target => nums[i] + nums[l] + nums[from l+1 to r] < target
 class Solution {
     public int threeSumSmaller(int[] nums, int target) {
-        if(nums == null || nums.length == 0) return 0;
+        if(nums == null || nums.length < 3) return 0;
         int res = 0;
         int n = nums.length;
         Arrays.sort(nums);

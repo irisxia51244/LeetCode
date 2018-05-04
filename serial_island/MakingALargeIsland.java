@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 827，【HARD】，【DFS】
+ * 827，【Hard】，【DFS】
  * LeetCode 827. Making A Large Island
  * Related Topics: DFS
  * @author Iris Xia

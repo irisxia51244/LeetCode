@@ -1,7 +1,7 @@
 import java.util.*;
 /**
  * LeetCode 170. Two Sum III - Data structure design
- * 170，【HashTable】【Design】
+ * 170，【EASY】，【HashTable】【Design】
  * Related Topics: HashTable, Design
  * @author Iris Xia
  * Time Complexity: add-O(1), find-O(n);

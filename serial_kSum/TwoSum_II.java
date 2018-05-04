@@ -1,11 +1,11 @@
 import java.util.*;
-/* 
+/** 
  * 167，【Array】【Binary Search】
  * LeetCode 167. Two Sum II - Input array is sorted
  * Related Topics: Array, Binary Search
  * @author Iris Xia
  * Time Complexity: O(logn), Space Complexity: O(1);
- */
+ **/
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] res = new int[2];

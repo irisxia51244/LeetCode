@@ -3,7 +3,7 @@ import java.util.*;
  * 188，【Hard】，【DP】
  * LeetCode 188. Best Time to Buy and Sell Stock IV
  * Related Topics: Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia 
  * Time Complexity: O(n) best, O(kn), Space Complexity: O(1) best, O(kn);
  */
 

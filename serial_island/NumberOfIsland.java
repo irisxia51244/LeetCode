@@ -4,7 +4,7 @@ import java.util.*;
  * LeetCode 200. Number of Islands
  * Related Topics: DFS, BFS, Union Find
  * @author Iris Xia
- * Time Complexity: O(mn), Space Complexity: O();
+ * Time Complexity: O(mn), Space Complexity: O( );
  */
 
 class Solution {

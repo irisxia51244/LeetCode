@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 305，【HARD】，【Union Find】
+ * 305，【Hard】，【Union Find】
  * LeetCode 305. Number of Islands II
  * Related Topics: Union Find
  * @author Iris Xia

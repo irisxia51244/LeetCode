@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 463，【EASY】
+ * 463，【Easy】
  * LeetCode 463. Island Perimeter
  * Related Topics: 
  * @author Iris Xia

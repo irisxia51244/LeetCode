@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 694，【Medium】，【HashTable】【DFS】
+ * 694，【MEDIUM】，【HashTable】【DFS】
  * LeetCode 694. Number of Distinct Islands
  * Related Topics: HashTable, DFS
  * @author Iris Xia

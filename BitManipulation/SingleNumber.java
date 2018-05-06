@@ -1,7 +1,7 @@
 import java.util.*;
 /**
  * 136，【Easy】，【HashTable】【Bit Manipulation】
- * LeetCode 136. Single Number
+ * LeetCode 136. Single Number.
  * Related Topics: HashTable, Bit Manipulation
  * @author Iris Xia
  * Time Complexity: O(n), Space Complexity: O(1);

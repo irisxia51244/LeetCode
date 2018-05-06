@@ -3,7 +3,7 @@ import java.util.*;
  * 357，【Medium】，【Math】【DP】【Backtracking】
  * LeetCode 357. Count Numbers with Unique Digits
  * Related Topics: Math, Dynamic Programming, Backtracking
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(1), Space Complexity: O(1);
  */
 

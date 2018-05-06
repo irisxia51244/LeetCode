@@ -3,7 +3,7 @@ import java.util.*;
  * 714，【Medium】，【Array】【DP】【Greedy】
  * LeetCode 714. Best Time to Buy and Sell Stock with Transaction Fee
  * Related Topics: Array, Dynamic Programming, Greedy
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 class Solution {

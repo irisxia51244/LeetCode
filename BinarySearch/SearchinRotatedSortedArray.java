@@ -2,7 +2,7 @@
  * 33，【Medium】，【Array】【Binary Search】
  * LeetCode 33. Search in Rotated Sorted Array
  * Related Topics: Array, Binary Search
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(logn), Space Complexity: O(1);
  */
 

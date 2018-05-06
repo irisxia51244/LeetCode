@@ -3,7 +3,7 @@ import java.util.*;
  * 537，【Medium】，【Math】【String】
  * LeetCode 537. Complex Number Multiplication
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
  

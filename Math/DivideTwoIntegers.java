@@ -2,7 +2,7 @@
  * 29，【Medium】，【Math】【Binary Search】
  * LeetCode 29. Divide Two Integers
  * Related Topics: Math, Binary Search
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(), Space Complexity: O();
  * Method2: 
  */

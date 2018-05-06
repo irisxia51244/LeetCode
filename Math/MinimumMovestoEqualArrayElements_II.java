@@ -3,7 +3,7 @@ import java.util.*;
  * 462，【Medium】，【Math】
  * LeetCode 462. Minimum Moves to Equal Array Elements II
  * Related Topics: Math
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(nlogn), Space Complexity: O(1);
  * Method2: Time Complexity: O(n), Space Complexity: O(1);
  */

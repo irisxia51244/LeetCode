@@ -2,7 +2,7 @@
  * 8，【Medium】，【Math】【String】
  * LeetCode 8. String to Integer (atoi)
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

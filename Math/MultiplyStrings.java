@@ -2,7 +2,7 @@
  * 43，【Medium】，【Math】【String】
  * LeetCode 43. Multiply Strings
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(mn), Space Complexity: O(m+n);
  */
  

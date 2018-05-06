@@ -3,7 +3,7 @@ import java.util.*;
  * 14，【Easy】，【String】
  * LeetCode 
  * Related Topics: 
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(nm^2) worst case, average case faster, Space Complexity: O(1)
  * Method2: Time Complexity: O(mn) average case, Space Complexity: O(1)
  */

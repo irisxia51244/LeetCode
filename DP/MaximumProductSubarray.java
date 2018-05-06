@@ -2,7 +2,7 @@
  * 152，【Medium】，【Math】【Dynamic Programming】
  * LeetCode 152. Maximum Product Subarray
  * Related Topics: Math, Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
  

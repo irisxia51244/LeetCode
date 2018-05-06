@@ -3,7 +3,7 @@ import java.util.*;
  * 309，【Medium】，【DP】
  * LeetCode 309. Best Time to Buy and Sell Stock with Cooldown
  * Related Topics: Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

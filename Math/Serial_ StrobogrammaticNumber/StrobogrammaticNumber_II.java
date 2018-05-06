@@ -3,7 +3,7 @@ import java.util.*;
  * 247，【Medium】，【Math】【Recursion】
  * LeetCode 247. Strobogrammatic Number II
  * Related Topics: 
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(), Space Complexity: O();
  */
  

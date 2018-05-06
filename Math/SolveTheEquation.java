@@ -3,7 +3,7 @@ import java.util.*;
  * 640，【Medium】，【Math】
  * LeetCode 640. Solve the Equation
  * Related Topics: Math
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(), Space Complexity: O();
  */
 

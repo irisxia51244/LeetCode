@@ -3,7 +3,7 @@ import java.util.*;
  * 122，【Easy】，【Array】【Greedy】
  * LeetCode 122. Best Time to Buy and Sell Stock II
  * Related Topics: Array, Greedy
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

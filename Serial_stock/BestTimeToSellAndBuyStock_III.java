@@ -3,7 +3,7 @@ import java.util.*;
  * 123，【Hard】，【Array】【DP】
  * LeetCode 123. Best Time to Buy and Sell Stock III
  * Related Topics: Array, Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

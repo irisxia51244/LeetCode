@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 4，【Hard】，【Array】【Binary Search】【Divide & Conquer】
+ * 4.【Hard】，【Array】【Binary Search】【Divide & Conquer】
  * LeetCode 4. Median of Two Sorted Arrays
  * Related Topics: Array, Binary Search, Divide and Conquer
  * @author Iris Xia

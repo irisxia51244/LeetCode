@@ -3,7 +3,7 @@ import java.util.*;
  * 2，【Medium】，【LinkedList】【Math】
  * LeetCode 2. Add Two Numbers
  * Related Topics: LinkedList, Math
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1), ignore result list;
  */
  

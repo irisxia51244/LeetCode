@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * 535，【Medium】，【HashTable】【Math】
  * LeetCode 
- * Related Topics: 
+ * Related Topics: HashTable, Math
  * @author Iris Xia
  * Time Complexity: encode: O(1), decode: O(1), Space Complexity: O();
  */

@@ -3,7 +3,7 @@ import java.util.*;
  * 553，【Medium】，【Math】【String】
  * LeetCode 553. Optimal Division
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

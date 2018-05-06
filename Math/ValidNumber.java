@@ -2,7 +2,7 @@
  * 65，【Hard】，【Math】【String】
  * LeetCode 65. Valid Number
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

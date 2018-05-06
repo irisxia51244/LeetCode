@@ -3,7 +3,7 @@ import java.util.*;
  * 789，【Medium】，【Math】
  * LeetCode 789. Escape The Ghosts
  * Related Topics: Math
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
  

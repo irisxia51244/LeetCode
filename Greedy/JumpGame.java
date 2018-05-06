@@ -2,7 +2,7 @@
  * 55，【Medium】，【Array】【Greedy】
  * LeetCode 55. Jump Game
  * Related Topics: Array, Greedy
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

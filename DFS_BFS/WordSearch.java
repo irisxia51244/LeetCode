@@ -2,7 +2,7 @@
  * 79，【Medium】，【Array】【Backtracking】
  * LeetCode 79. Word Search
  * Related Topics: 
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(4^n), Space Complexity: O();
  */
  

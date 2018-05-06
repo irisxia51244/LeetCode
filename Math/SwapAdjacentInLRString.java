@@ -3,7 +3,7 @@ import java.util.*;
  * 777，【Medium】，【Brainteaser】
  * LeetCode 777. Swap Adjacent in LR String
  * Related Topics: Brainteaser
- * @author Iris Xia.
+ * @author Iris Xia
  * Time Complexity: O(n), Space Complexity: O(1);
  */
  

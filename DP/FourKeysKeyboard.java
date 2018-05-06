@@ -3,7 +3,7 @@ import java.util.*;
  * 651 ，【Medium】，【Math】【Dynamic Programming】【Greedy】
  * LeetCode 
  * Related Topics: Math, Dynamic Programming, Greedy
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(n^2), Space Complexity: O(n);
  * Method2: Time Complexity: O(n)
  */

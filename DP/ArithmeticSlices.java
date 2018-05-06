@@ -3,7 +3,7 @@ import java.util.*;
  * 413，【Medium】，【Math】【Dynamic Programming】
  * LeetCode 413. Arithmetic Slices
  * Related Topics: Math, Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

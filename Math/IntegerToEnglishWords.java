@@ -2,7 +2,7 @@
  * 273，【Hard】，【Math】【String】
  * LeetCode 273. Integer to English Words
  * Related Topics: Math, String
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(), Space Complexity: O();
  */
 class Solution {

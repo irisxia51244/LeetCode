@@ -3,7 +3,7 @@ import java.util.*;
  * 246，【Easy】，【HashTable】【Math】
  * LeetCode 246. Strobogrammatic Number
  * Related Topics: HashTable, Math
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
  

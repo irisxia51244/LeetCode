@@ -2,8 +2,8 @@
  * 34，【Medium】，【Array】【Binary Search】
  * LeetCode 34. Search for a Range
  * Related Topics: Array, Binary Search
- * @author Iris Xia
- * Time Complexity: O(logn), Space Complexity: O(1);
+ * @author Iris Xia.
+ * Time Complexity: O(logn), Space Complexity: O(1)
  */
 
 class Solution {

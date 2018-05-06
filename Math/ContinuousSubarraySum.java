@@ -2,7 +2,7 @@
  * 523，【Medium】，【Math】【Dynamic Programming】
  * LeetCode 523. Continuous Subarray Sum
  * Related Topics: Math, Dynamic Programming
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(n);
  */
  

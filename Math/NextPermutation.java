@@ -2,7 +2,7 @@
  * 31，【Medium】，【Array】
  * LeetCode 31. Next Permutation
  * Related Topics: Array
- * @author Iris Xia
+ * @author Iris Xia.
  * Time Complexity: O(n), Space Complexity: O(1);
  */
 

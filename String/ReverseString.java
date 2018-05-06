@@ -3,7 +3,7 @@ import java.util.*;
  * 344，【Easy】，【String】【Two Pointers】
  * LeetCode 344. Reverse String
  * Related Topics: String, Two Pointers
- * @author Iris Xia
+ * @author Iris Xia.
  * Method 1: Time Complexity: O(n), Space Complexity: O(n);
  */
 

@@ -2,7 +2,7 @@
  * 50，【Medium】，【Math】【Binary Search】
  * LeetCode 50. Pow(x, n)
  * Related Topics: Math, Binary Search
- * @author Iris Xia
+ * @author Iris Xia.
  * Method1: Time Complexity: O(), Space Complexity: O();
  */
  

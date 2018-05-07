@@ -3,7 +3,7 @@
  * LeetCode 84. Largest Rectangle in Histogram
  * Related Topics: Array, Stack
  * @author Iris Xia
- * Time Complexity: O(), Space Complexity: O();
+ * Time Complexity: O( ), Space Complexity: O();
  */
 
 class Solution {

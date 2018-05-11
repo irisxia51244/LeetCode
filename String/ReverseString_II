@@ -1,0 +1,24 @@
+/**
+ * 541，【Easy】，【String】
+ * LeetCode 541. Reverse String II
+ * Related Topics: 
+ * @author Iris Xia
+ * Time Complexity: O(), Space Complexity: O();
+ */
+ 
+class Solution {
+    public String reverseStr(String s, int k) {
+        if(s == null || s.length() == 0){
+            return s;
+        }
+        char[] arr = s.toCharArray();
+        for(int i = 0; i < arr.length; i+=2*k){
+            for(int j = i, q = Math.min(i+k-1, arr.length-1); j<q; j++, q--){
+                char temp = arr[j];
+                arr[j] = arr[q];
+                arr[q] = temp;
+            }
+        }
+        return new String(arr);
+    }
+}

@@ -1,5 +1,6 @@
 /**
  * 39，【Medium】，【Array】【Backtracking】
+ * 无重复项，可重复使用。No duplicate, use unlimited times
  * LeetCode 39. Combination Sum
  * Related Topics: Array, Backtracking
  * @author Iris Xia

@@ -1,6 +1,7 @@
 /**
  * 77，【Medium】，【Backtracking】
  * LeetCode 77. Combinations
+ * 无重复项，不可重复使用，限定长度
  * Related Topics: Backtracking
  * @author Iris Xia
  * Time Complexity: O(), Space Complexity: O();

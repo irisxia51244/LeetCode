@@ -1,13 +1,18 @@
 /**
  * 40，【Medium】，【Array】【Backtracking】
  * LeetCode 40. Combination Sum II
+ * 有重复项，不可重复使用。has duplicate elements, use only once
  * Related Topics: 
  * @author Iris Xia
- * Time Complexity: O( ), Space Complexity: O();
+ * Time Complexity: O(n!), Space Complexity: O(n);
  */
 
 
 class Solution {
+    /*
+        Backtracking，因为不可重复使用同一element，但有重复项，
+                      需要sort，在每个pos时，相等的element只处理第一个，跳过后面。
+     */
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         if(candidates == null || candidates.length == 0) return res;

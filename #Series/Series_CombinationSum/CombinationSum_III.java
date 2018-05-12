@@ -1,13 +1,19 @@
 /**
  * 216，【Medium】，【Array】【Backtracking】
  * LeetCode 216. Combination Sum III
+ * 无重复项，不可重复使用，给定长度
  * Related Topics: Array, Backtracking
  * @author Iris Xia
- * Time Complexity: O( ), Space Complexity: O();
+ * Time Complexity: O(n!), Space Complexity: O(n);
  */
 
 
 class Solution {
+    /* 
+        Backtracking:
+            当list中有k个值，且sum==target时，加入。
+            从1开始。
+     */
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> res = new ArrayList<>();
         helper(k, n, res, 1, 0, new ArrayList<>());

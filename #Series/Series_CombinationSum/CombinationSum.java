@@ -3,11 +3,14 @@
  * LeetCode 39. Combination Sum
  * Related Topics: Array, Backtracking
  * @author Iris Xia
- * Time Complexity: O( ), Space Complexity: O();
+ * Time Complexity: O(n!), Space Complexity: O(n);
  */
 
 
 class Solution {
+    /*
+        Backtracking, 可重复使用，所以for loop中，recursive call时传递i，而非i+1
+     */
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         if(candidates == null || candidates.length == 0) return res;

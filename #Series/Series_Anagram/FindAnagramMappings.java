@@ -8,6 +8,10 @@
 
 
 class Solution {
+     /*
+        HashMap, Key为B中的Integer, val为其所在index的list
+        遍历A，get在B中index list，选择并删除最后一位
+      */
     public int[] anagramMappings(int[] A, int[] B) {
         if(A == null || B == null || A.length == 0 || B.length == 0) return new int[0];
         int[] res = new int[A.length];

@@ -7,6 +7,10 @@
  */
 
 class Solution {
+    /*
+        HashMap, key为sort后的string，val为该key的anagram
+        Using HashMap, sorted string as key, anagram of current key as val
+     */
     public List<List<String>> groupAnagrams(String[] strs) {
         if(strs == null || strs.length == 0) return new ArrayList<List<String>>();
         HashMap<String, List<String>> map = new HashMap<>();

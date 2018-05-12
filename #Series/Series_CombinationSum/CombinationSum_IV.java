@@ -1,13 +1,18 @@
 /**
  * 377，【Medium】，【Dynamic Programming】
  * LeetCode 377. Combination Sum IV
+ * 无重复项，可重复使用，只需返回方法数 
  * Related Topics: Dynamic Programming
  * @author Iris Xia
- * Time Complexity: O( ), Space Complexity: O();
+ * Method1: Time Complexity: O(target*nums.length), Space Complexity: O(target);
+ * Method2: 
  */
 
 class Solution {
-    //Method1: Dynamic Programming
+    /*
+        Method1: Dynamic Programming
+        dp[i] = sum(dp[i - num])
+     */
     public int combinationSum4(int[] nums, int target) {
         if(nums == null || nums.length == 0) return 0;
         int[] dp = new int[target+1];

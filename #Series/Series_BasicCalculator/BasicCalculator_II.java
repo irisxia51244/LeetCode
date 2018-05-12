@@ -3,10 +3,18 @@
  * LeetCode 227. Basic Calculator II
  * Related Topics: String
  * @author Iris Xia
- * Time Complexity: O(), Space Complexity: O();
+ * Time Complexity: O(n), Space Complexity: O(n);
  */
 
 class Solution {
+    /*
+        遍历string，if digit:
+                            读完整个数字
+                            '+' push num, '-' push -num, '*' push(pop() * num), '/' push(pop()/num) 
+                   if符号:
+                            sign = 符号
+        累加stack中的数
+     */
     public int calculate(String s) {
         int res = 0;
         if(s == null || s.length() == 0) return res;

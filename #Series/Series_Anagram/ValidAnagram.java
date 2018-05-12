@@ -8,6 +8,11 @@
 
 
 class Solution {
+    /*
+        Only lowercase alphabet, bucket int[26]
+        Only alphabet, bucket int[128]
+        Unicode, using HashMap
+     */
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()){
             return false;

@@ -3,28 +3,19 @@
  * LeetCode 125. Valid Palindrome
  * Related Topics: 
  * @author Iris Xia
- * Time Complexity: O(), Space Complexity: O();
+ * Time Complexity: O(n), Space Complexity: O(1);
  */
 
 class Solution {
     public boolean isPalindrome(String s) {
         if(s == null ||s.length() == 0) return true;
-        
-        int left = 0, right = s.length() - 1;
-        char cLeft, cRight;
-        while(left < right){
-            cLeft = s.charAt(left);
-            cRight = s.charAt(right);
-            if(!Character.isLetterOrDigit(cLeft)){
-                left++;
-            }else if(!Character.isLetterOrDigit(cRight)){
-                right--;
-            }else if(Character.toLowerCase(cLeft) != Character.toLowerCase(cRight)){
-                    return false;
-            }else{
-                left++;
-                right--;
-            }
+        int l = 0, r = s.length() - 1;
+        while(l < r){
+            while(l < r && !Character.isLetterOrDigit(s.charAt(l))) l++;
+            while(l < r && !Character.isLetterOrDigit(s.charAt(r))) r--;
+            if(Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r))) return false;
+            l++;
+            r--;
         }
         return true;
     }
